@@ -1,3 +1,9 @@
+import os
+os.system('pip install yfinance pandas_ta matplotlib')
+
+import streamlit as st
+# ... โค้ดที่เหลือของคุณ ...
+
 import streamlit as st
 import pandas as pd
 import yfinance as yf
