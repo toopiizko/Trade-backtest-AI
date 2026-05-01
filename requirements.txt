@@ -1,1 +1,1 @@
-pip install streamlit yfinance pandas_ta matplotlib pandas
+pip install streamlit yfinance pandas_ta matplotlib
